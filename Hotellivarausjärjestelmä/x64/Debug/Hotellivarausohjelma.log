@@ -1,0 +1,11 @@
+﻿  Hotellivarausohjelma.cpp
+C:\Users\rikuh\source\repos\Hotellivarausohjelma\Hotellivarausohjelma\Hotellivarausohjelma.cpp(118,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rikuh\source\repos\Hotellivarausohjelma\Hotellivarausohjelma\Hotellivarausohjelma.cpp(121,113): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rikuh\source\repos\Hotellivarausohjelma\Hotellivarausohjelma\Hotellivarausohjelma.cpp(180,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rikuh\source\repos\Hotellivarausohjelma\Hotellivarausohjelma\Hotellivarausohjelma.cpp(183,114): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rikuh\source\repos\Hotellivarausohjelma\Hotellivarausohjelma\Hotellivarausohjelma.cpp(359,39): warning C4101: 'e': unreferenced local variable
+C:\Users\rikuh\source\repos\Hotellivarausohjelma\Hotellivarausohjelma\Hotellivarausohjelma.cpp(363,35): warning C4101: 'e': unreferenced local variable
+C:\Users\rikuh\source\repos\Hotellivarausohjelma\Hotellivarausohjelma\Hotellivarausohjelma.cpp(534,74): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rikuh\source\repos\Hotellivarausohjelma\Hotellivarausohjelma\Hotellivarausohjelma.cpp(541,74): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rikuh\source\repos\Hotellivarausohjelma\Hotellivarausohjelma\Hotellivarausohjelma.cpp(618,82): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Hotellivarausohjelma.vcxproj -> C:\Users\rikuh\source\repos\Hotellivarausohjelma\x64\Debug\Hotellivarausohjelma.exe
